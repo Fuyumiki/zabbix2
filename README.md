@@ -30,7 +30,7 @@
 2. `Создаем items CPU and RAM`
 
 ![task1](/img/zadanie1.png)
-![task1](/img/task1.png)
+![task1](/img/task1r.png)
 
 
 ---
