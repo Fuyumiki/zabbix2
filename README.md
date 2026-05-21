@@ -29,7 +29,8 @@
 1. `Создаем сам шаблон и называем его bogdan_template`
 2. `Создаем items CPU and RAM`
 
-![task1](/img/task1.png)`
+![task1](/img/zadanie1.png)
+![task1](/img/task1.png)
 
 
 ---
